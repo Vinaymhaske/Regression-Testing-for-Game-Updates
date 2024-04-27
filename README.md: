@@ -1,3 +1,15 @@
 # Regression Testing for Game Updates
 
 Managed regression testing for game updates, patches, and DLC to ensure stability and prevent issues. Collaborated with devs to prioritize testing and communicate defects effectively. Reduced post-release defects through robust regression testing, boosting customer satisfaction.
+Regression-Testing-for-Game-Updates/
+│
+├── test_scripts/
+│   ├── login_test.py
+│   ├── purchase_test.py
+│   ├── authentication_test.py
+│   ├── inventory_test.py
+│   ├── load_test.py
+│   ├── latency_test.py
+│   └── ...
+│
+└── README.md
